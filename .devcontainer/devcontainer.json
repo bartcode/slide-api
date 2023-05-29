@@ -1,0 +1,25 @@
+{
+    "name": "Slide API",
+    "image": "mcr.microsoft.com/devcontainers/python:3.10",
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "git.path": "/usr/bin/git",
+                "python.linting.pylintEnabled": true,
+                "python.linting.enabled": true,
+            },
+            "extensions": [
+                "ms-python.python",
+                "bungcip.better-toml",
+                "ms-python.black-formatter",
+                "yzhang.markdown-all-in-one",
+                "ms-python.pylint",
+                "redhat.vscode-yaml",
+                "charliermarsh.ruff"
+            ]
+        }
+    },
+    "postCreateCommand": "curl -sSL https://install.python-poetry.org | POETRY_VERSION=1.5.1 python3 - && poetry config virtualenvs.create false && sudo /home/vscode/.local/bin/poetry install --no-interaction",
+    "workspaceFolder": "/workspaces/slide-api",
+    "remoteUser": "vscode"
+}
