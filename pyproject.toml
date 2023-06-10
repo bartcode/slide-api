@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "slide-api-client"
-version = "0.1.1"
+version = "0.1.2"
 description = "Python library to communicate with the Slide API."
 authors = ["Bart Hazen <hazenbart@gmail.com>"]
 license = "GNU General Public License v3.0"
