@@ -8,7 +8,7 @@
 
 # Slide API client
 
-Python API client to utilise the lide Open Cloud or local API.
+Python API client to utilise the Slide Cloud or local API.
 
 ## Usage
 
