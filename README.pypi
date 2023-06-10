@@ -1,6 +1,6 @@
-# Slide API
+# Slide API client
 
-Python API to utilise the lide Open Cloud or local API.
+Python API client to utilise the lide Open Cloud or local API.
 
 ## Usage
 
@@ -40,5 +40,5 @@ Instead of providing explicit values for username/password or device code, you c
 ## Installation
 
 ```bash
-pip install slide-api
+pip install slide-api-client
 ```

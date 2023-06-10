@@ -1,4 +1,4 @@
-# Contributing to Slide-API
+# Contributing to Slide API client
 
 Thank you for your interest in contributing to [project name]! We welcome contributions from anyone, regardless of their level of experience or expertise.
 

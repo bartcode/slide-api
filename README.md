@@ -6,9 +6,9 @@
 ![GitHub Watchers][watchers-shield]
 ![GitHub Forks][forks-shield]
 
-# Slide API
+# Slide API client
 
-Python API to utilise the lide Open Cloud or local API.
+Python API client to utilise the lide Open Cloud or local API.
 
 ## Usage
 
@@ -48,14 +48,14 @@ Instead of providing explicit values for username/password or device code, you c
 ## Installation
 
 ```bash
-pip install slide-api
+pip install slide-api-client
 ```
 
-[commits-shield]: https://img.shields.io/github/commit-activity/y/bartcode/slide-api.svg
-[commits]: https://github.com/bartcode/slide-api/commits/main
-[last-commit-shield]: https://img.shields.io/github/last-commit/bartcode/slide-api.svg
-[stars-shield]: https://img.shields.io/github/stars/bartcode/slide-api.svg?style=social&label=Stars
-[forks-shield]: https://img.shields.io/github/forks/bartcode/slide-api.svg?style=social&label=Forks
-[watchers-shield]: https://img.shields.io/github/watchers/bartcode/slide-api.svg?style=social&label=Watchers
-[actions-shield]: https://img.shields.io/github/actions/workflow/status/bartcode/slide-api/publish.yml
-[actions]: https://github.com/bartcode/slide-api/actions
+[commits-shield]: https://img.shields.io/github/commit-activity/y/bartcode/slide-api-client.svg
+[commits]: https://github.com/bartcode/slide-api-client/commits/main
+[last-commit-shield]: https://img.shields.io/github/last-commit/bartcode/slide-api-client.svg
+[stars-shield]: https://img.shields.io/github/stars/bartcode/slide-api-client.svg?style=social&label=Stars
+[forks-shield]: https://img.shields.io/github/forks/bartcode/slide-api-client.svg?style=social&label=Forks
+[watchers-shield]: https://img.shields.io/github/watchers/bartcode/slide-api-client.svg?style=social&label=Watchers
+[actions-shield]: https://img.shields.io/github/actions/workflow/status/bartcode/slide-api-client/publish.yml
+[actions]: https://github.com/bartcode/slide-api-client/actions
